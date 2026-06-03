@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProiectGestiuneSpital/ProiectGestiuneSpital.vcxproj" Id="8099cf3c-81f6-45f4-b9be-cd2178a60981" />
+</Solution>

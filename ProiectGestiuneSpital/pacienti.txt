@@ -1,0 +1,16 @@
+1
+Ion Popescu
+35
+Gripa
+2
+Maria Stan
+42
+Diabet
+3
+Andrei Ionescu
+29
+Gripa
+4
+Maria Ioana
+22
+Raceala
